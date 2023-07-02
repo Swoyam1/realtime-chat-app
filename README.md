@@ -54,6 +54,7 @@ Finally to start the server execute this script
 cd server
 npm run dev
 ```
+After running the development server the site should be running on https://localhost:3000
 
-
-
+Give the project a :star: if you liked it.
+Made with :heart: and React.
