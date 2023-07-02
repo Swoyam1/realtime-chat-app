@@ -20,7 +20,7 @@ Start developing locally.
 clone this repo
 
 ```sh
-https://github.com/anuraghazra/convoychat.git
+git clone https://github.com/Swoyam1/realtime-chat-app.git
 ```
 
 #### Step-2
