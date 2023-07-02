@@ -1,0 +1,31 @@
+.container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formContainer {
+    width: 400px;
+    margin: 0 auto 0 auto;
+    padding: 32px;
+    background-color: rgba(102, 143, 218, 0.26);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+}
+
+.input {
+    width: 100%;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid rgb(63, 188, 204);
+    font-size: 0.9rem;
+}
+
+.input option {
+    margin-top: 20px;
+}
