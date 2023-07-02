@@ -37,9 +37,9 @@ cd client
 npm install
 ```
 
-#### Step-3: Starting the server
+#### Step-3: Starting the client-side application
 
-To Start the client execute this script
+To Run the application in development mode execute this script
 
 ```sh
 cd client
