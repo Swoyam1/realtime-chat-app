@@ -1,4 +1,4 @@
-<p align="center">Real time chat app</p>
+<h1 align="center">Real time chat app</h1>
 
 ## ✨ Tech Stack
 
