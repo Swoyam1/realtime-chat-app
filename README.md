@@ -29,7 +29,7 @@ Install all dependencies
 
 ```sh
 # install server side deps
-cd convoychat
+cd server
 npm install
 
 # install client side deps
