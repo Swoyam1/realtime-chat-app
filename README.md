@@ -3,6 +3,7 @@
 ## ✨ Tech Stack
 
 - HTML
+    - hi
 - CSS
 - JavaScript
 - React.js
